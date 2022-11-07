@@ -29,6 +29,10 @@ I am a young developer from Australia.
 </p>
 
 ---
+### 🛡️ &nbsp; Digital Badges :
+
+[![@d99's Holopin board](https://holopin.me/d99)](https://holopin.io/@d99)
+---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
@@ -37,5 +41,4 @@ I am a young developer from Australia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d99-1&layout=compact&theme=tokyonight)](https://github.com/D99-1)
 
-[![@d99's Holopin board](https://holopin.me/d99)](https://holopin.io/@d99)
 
