@@ -36,9 +36,9 @@ I am a young developer from Australia.
 
 ### 🔥 &nbsp; My Stats :
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D99-1/D99-1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D99-1/D99-1/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D99-1/D99-1/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake.svg">
 </picture>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
