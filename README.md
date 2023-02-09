@@ -36,7 +36,6 @@ I am a young developer from Australia.
 
 ### 🔥 &nbsp; My Stats :
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake.svg">
 </picture>
 
