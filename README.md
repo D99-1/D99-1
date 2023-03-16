@@ -35,13 +35,10 @@ I am a young developer from Australia.
 ---
 
 ### 🔥 &nbsp; My Stats :
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D99-1/D99-1/f0808ea9be3d4154ea7b703c48f47f5065c616d2/github-contribution-grid-snake.svg">
-</picture>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
 
-[![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=16370345)](https://stackoverflow.com/users/16370345/dhyan-tanna)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d99-1&layout=compact&theme=tokyonight)](https://github.com/D99-1)
 
