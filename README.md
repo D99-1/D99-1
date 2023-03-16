@@ -39,6 +39,7 @@ I am a young developer from Australia.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
 
+![D99-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=d99-1&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d99-1&layout=compact&theme=tokyonight)](https://github.com/D99-1)
 
