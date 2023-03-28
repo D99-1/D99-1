@@ -16,4 +16,5 @@ jobs:
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           TIME_RANGE: all_time
+          SHOW_TOTAL: true
           #REPOSITORY: <gh_username/gh_username>
