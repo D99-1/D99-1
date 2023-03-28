@@ -40,6 +40,13 @@ I am a young developer from Australia.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   1 hr 11 mins    ██████████████░░░░░░░░░░░   55.62 %
+JSON         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+Other        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+```
+
 <!--END_SECTION:waka-->
 
 ![D99-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=d99-1&show_icons=true&theme=highcontrast)
