@@ -42,6 +42,8 @@ I am a young developer from Australia.
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 1 hr 54 mins
+
 JavaScript   1 hr 11 mins    ██████████████░░░░░░░░░░░   55.62 %
 JSON         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
 Other        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
