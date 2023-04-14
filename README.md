@@ -42,16 +42,16 @@ I am a young developer from Australia.
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 12 April 2023
+From: 15 March 2023 - To: 13 April 2023
 
-Total Time: 10 hrs 4 mins
+Total Time: 10 hrs 34 mins
 
-JavaScript   5 hrs 41 mins   █████████████▓░░░░░░░░░░░   55.22 %
-Python       1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-HTML         1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-CSS          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JavaScript   5 hrs 41 mins   █████████████▒░░░░░░░░░░░   52.72 %
+Python       2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+HTML         1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+CSS          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
