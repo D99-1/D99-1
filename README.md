@@ -42,7 +42,7 @@ I am a young developer from Australia.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2023 - To: 07 September 2023
+From: 15 March 2023 - To: 08 September 2023
 
 Total Time: 58 hrs 40 mins
 
