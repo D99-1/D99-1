@@ -37,26 +37,10 @@ I am a young developer from Australia.
 ### 🔥 &nbsp; My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d99-1&theme=tokyonight&background=000000)](https://github.com/D99-1)
+[![Hackatime activity heatmap](https://heatmap.shymike.dev?id=824&timezone=Australia%2FCanberra&labels=true&theme=light)](https://heatmap.shymike.dev?id=824&timezone=Australia%2FCanberra&labels=true&standalone=true "Click to view detailed data for each day!")
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 March 2023 - To: 17 March 2026
-
-Total Time: 171 hrs 38 mins
-
-JavaScript       75 hrs 1 min          ███████████░░░░░░░░░░░░░░   43.57 %
-Python           29 hrs 30 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-HTML             27 hrs 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-CSS              18 hrs 37 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-TypeScript       6 hrs 32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-```
-
-<!--END_SECTION:waka-->
-
-![D99-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=d99-1&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d99-1&layout=compact&theme=tokyonight)](https://github.com/D99-1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=824&timezone=Australia%2FCanberra&labels=true&theme=dark">
+</picture>
 
 
